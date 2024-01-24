@@ -1,0 +1,11 @@
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\bin\Debug\microwaveInC.exe.config
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\bin\Debug\microwaveInC.exe
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\bin\Debug\microwaveInC.pdb
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.Properties.Resources.resources
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.exe
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.pdb
+C:\Users\thoma\OneDrive\Desktop\MyProjects\codeatcollege\microwaveInC\microwaveInC\obj\Debug\microwaveInC.Micro.resources
